@@ -1,4 +1,5 @@
 Poker Hand Calc
+
 Poker Hand Calc is a Python-based web application that calculates the ranking of a poker hand. The project is served using an Nginx web server for optimal performance and stability.
 
 Features
